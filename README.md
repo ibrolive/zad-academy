@@ -1,4 +1,4 @@
-[CMS editor](https://app.pagescms.org/) | [Live website](https://zad-academy.vercel.app/) | [CI-CD](https://vercel.com/ibrolives-projects/zad-academy)
+[CMS editor](https://app.pagescms.org/ibrolive/zad-academy/main/collection/posts) | [Live website](https://zad-academy.vercel.app/) | [CI-CD](https://vercel.com/ibrolives-projects/zad-academy)
 
 <details>
   <summary>About the template</summary>
