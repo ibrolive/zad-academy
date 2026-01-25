@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Ibrahim Dauda
 title: How to configure the site
 slug: how-to-configure-the-site
 featured: true
