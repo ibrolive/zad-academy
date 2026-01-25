@@ -1,4 +1,5 @@
 ---
+author: Ibrahim Dauda
 title: Adding new pages/posts
 slug: adding-new-pages
 featured: true
