@@ -1,3 +1,8 @@
+[CMS editor](https://app.pagescms.org/) | [Live website](https://zad-academy.vercel.app/) | [CI-CD](https://vercel.com/ibrolives-projects/zad-academy)
+
+<details>
+  <summary>About the template</summary>
+
 # AstroPaper 📄
 
 ![AstroPaper](public/astropaper-og.jpg)
@@ -156,3 +161,6 @@ Licensed under the MIT License, Copyright © 2023
 ---
 
 Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
+
+
+</details>
