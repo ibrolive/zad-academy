@@ -1,5 +1,7 @@
 ---
 author: Ibrahim Dauda
+pubDatetime: 2026-01-25
+modDatetime: 2026-01-25
 title: How to configure the site
 slug: how-to-configure-the-site
 featured: true
