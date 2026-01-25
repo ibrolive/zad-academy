@@ -1,5 +1,7 @@
 ---
 author: Ibrahim Dauda
+pubDatetime: 2026-01-25
+modDatetime: 2026-01-25
 title: Adding new pages/posts
 slug: adding-new-pages
 featured: true
